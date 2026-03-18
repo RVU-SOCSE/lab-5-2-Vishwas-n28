@@ -1,0 +1,4 @@
+Lab 1: Exercise
+1. Simple Calculator
+2. Temperature Conversion
+3. Find Largest and smallest among three number

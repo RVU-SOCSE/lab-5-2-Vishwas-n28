@@ -1,0 +1,4 @@
+Lab 1 - Exercise
+
+1. Parent Child Process Creation using ps command
+ 

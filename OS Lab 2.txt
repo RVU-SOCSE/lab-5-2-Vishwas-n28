@@ -1,0 +1,4 @@
+Lab 2 - Exercise
+
+Process Control: Create a shell script that demonstrates process control commands like 
+bg, fg, jobs, and kill. Implement a simple background task and manage its execution. 

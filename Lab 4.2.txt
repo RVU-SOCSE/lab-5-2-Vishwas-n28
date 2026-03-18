@@ -1,0 +1,12 @@
+Lab 4.2
+
+1) Creating and manipulating NumPy arrays 
+
+Write a Python program that creates a NumPy array, performs basic array 
+manipulations (such as reshaping and indexing), and calculates the sum of the 
+elements.
+
+2) Program to perform matrix operations using NumPy 
+
+ Write a Python program that performs basic matrix operations using NumPy, 
+including addition, multiplication, and transposing a matrix. 

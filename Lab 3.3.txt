@@ -1,0 +1,4 @@
+Lab 3.3 - Exercise
+
+1. Dictionary
+2. Write a Python program to merge two dictionaries. 

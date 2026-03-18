@@ -1,0 +1,5 @@
+Lab 2 Exercise
+
+1.Factorial using Recursion
+2.Fibonacci using Recursion
+3.Word count
